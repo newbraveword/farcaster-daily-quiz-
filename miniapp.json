@@ -1,0 +1,7 @@
+{
+  "name": "Günlük Crypto Quiz",
+  "description": "Her gün 1 soru ile blockchain genel kültür ve teknik analiz testi.",
+  "webpage": "https://<YOUR-VERCEL-URL>.vercel.app",
+  "icon": "https://<YOUR-VERCEL-URL>.vercel.app/icon.png",
+  "type": "miniapp"
+}
